@@ -1,5 +1,5 @@
 # Security conferences 
-
+- [IT-Meets.Guru](https://itmeets.guru/)
 ## In 2017
 
 _Conferences are ordered by submission date (as much as possible)_.
@@ -115,6 +115,7 @@ _Conferences are ordered by submission date (as much as possible)_.
 
 - [Cyber Security Conferences in 2017](https://itmeets.guru/top-50-must-attend-cyber-security-conferences-in-2017)
 - [IT-Meets.Guru Calendar](https://itmeets.guru/calendar/)
+- [IT-Meets.Guru](https://itmeets.guru/)
 
 
 
